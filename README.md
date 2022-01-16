@@ -31,7 +31,7 @@
 - React
 
 ## :computer: Projeto
-> Minicurso gratuito de PWA inspirado no Spotify com Rails e React, minustrado pela Onebitcode.
+> Projeto feito a partir de um minicurso gratuito de PWA inspirado no Spotify com Rails e React, ministrado pela Onebitcode.
 
 ## ❗ Desafios pela frente
 - Criar o component Artist
